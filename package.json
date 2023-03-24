@@ -1,0 +1,21 @@
+{
+  "name": "omen",
+  "displayName": "omen",
+  "description": "Originally inspired by Omen, from Valorant",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.76.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "omen",
+        "uiTheme": "vs",
+        "path": "./themes/omen-color-theme.json"
+      }
+    ]
+  }
+}
