@@ -2,6 +2,37 @@
 	"$schema": "vscode://schemas/color-theme",
 	"type": "dark",
 	"colors": {
+
+		//BG-DARK:
+			//12112E DARKEST
+			//1D183D DARKER
+			//241E49 DARK
+			//2C2559 NORMAL
+			//3A3271 LIGHT
+			//4C3F88 LIGHTER
+		//GUI-TEXT-DARK:
+			//000000
+			//2C2559
+			//5F52A9
+			//978BD8
+			//FFFFFF
+		//GUI-YELLOW-DARK:
+			//C9762D
+			//FFB641
+			//FFE15E
+		//GUI-BLUE-DARK
+			//3470DF
+			//48CEFF
+			//B0F4FF
+		//GUI-RED-DARK
+			//B11D45
+			//E2465B
+			//FF7878
+		//GUI-GREEN-DARK
+			//00946C
+			//00D17D
+			//34FF96
+
 		"activityBar.activeBackground"   : "#1D183D",
 		"activityBar.activeBorder"       : "#5EFBFD",
 		"activityBar.background"         : "#12112E",
@@ -290,6 +321,21 @@
 	},
 
 	"tokenColors": [
+
+		//CODE-GENERAL-DARK:
+			//FF63A7 PINK
+			//FFC2F0
+
+			//7181D5 BLUE
+			//B8D3FF 
+			
+			//5EFBFD CYAN
+
+			//8FFF90 GREEN
+			//BAFFD6
+
+			//FFEE80 YELLOW
+
 		{
 			"scope": [
 				"comment",
