@@ -3,8 +3,18 @@
   "displayName": "omen",
   "description": "Originally inspired by Omen, from Valorant",
   "version": "0.0.1",
+  "publisher": "w3ns",
   "engines": {
     "vscode": "^1.76.0"
+  },
+  "keywords": [
+    "theme",
+    "omen",
+    "dark theme"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/w3n-s/vscode-omen-theme"
   },
   "categories": [
     "Themes"
@@ -14,7 +24,7 @@
       {
         "label": "omen",
         "uiTheme": "vs",
-        "path": "./themes/omen-color-theme.json"
+        "path": "./themes/omen-dark-color-theme.json"
       }
     ]
   }

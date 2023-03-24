@@ -1,19 +1,19 @@
 # omen
 
+## SCREENSHOT HERE
 
+This is a theme for Visual Studio Code that was originally inspired by Valorant's Omen, with some personal colour choice thrown in.
 
+### **PREVIEWS:**
 
-## Working with Markdown
+<details>
+<summary>🌙 Nightmare</summary>
+<a>This is a work-in-progress!</a>
+</details>
+<details>
+<summary>☀️ Lightmare</summary>
+<a>This is a work-in-progress!</a>
+</details>
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
-
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
-
-## For more information
-
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
 
 **Enjoy!**
