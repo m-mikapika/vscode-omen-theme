@@ -1,6 +1,7 @@
 # omen
 
 ## SCREENSHOT HERE
+**! THIS THEME IS VERY WORK-IN-PROGRESS**
 
 This is a theme for Visual Studio Code that was originally inspired by Valorant's Omen, with some personal colour choice thrown in.
 
