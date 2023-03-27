@@ -9,8 +9,6 @@ All changes coming and added to the *omen* theme starting from version **1.0.0**
 ```
 - [FIX] : markdown text in lightmare is white
 - [ADD] : screenshots
-
-
 ```
 
 <hr>
