@@ -45,7 +45,7 @@
 		"badge.foreground"               : "#FFFFFF",
 		"icon.foreground"                : "#2A2675",
 		"breadcrumb.activeSelectionForeground" : "#FFFFFF",
-		"breadcrumb.focusForeground"           : "#FF4EA1", //4x5aetmrzyqcwgnauj6umeflthsb2ds323ogdbjdvupem3jtvhzq
+		"breadcrumb.focusForeground"           : "#FF4EA1",
 		"breadcrumb.foreground"                : "#2A2675",
 		"breadcrumbPicker.background"          : "#E0BCDD",
 		"button.background"               : "#f08c30",
