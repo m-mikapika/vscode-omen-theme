@@ -16,6 +16,12 @@ All changes coming and added to the *omen* theme starting from version **1.0.0**
 ## CHANGELOG:
 
 ```
+v1.0.2
+    PATCHED:
+        - updated lightmode text for better readability
+            - find/replace
+            - welcome page tiles
+
 v1.0.1 (LATEST)
     PATCHED:
         - welcome page tiles being unreadable
