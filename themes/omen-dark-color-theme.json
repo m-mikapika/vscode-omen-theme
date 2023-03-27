@@ -12,7 +12,7 @@
 			//4C3F88 LIGHTER
 		//GUI-TEXT-DARK:
 			//000000
-			//2C2559
+			//
 			//5F52A9
 			//978BD8
 			//FFFFFF
@@ -317,8 +317,6 @@
 		"titleBar.inactiveForeground" : "#978BD8",
 
 		"walkThrough.embeddedEditorBackground": "#1D183D",
-
-		"welcomePage.tileBackground" : "#12112E",
 
 		"widget.shadow": "#00000026",
 		
