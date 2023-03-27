@@ -22,9 +22,14 @@
   "contributes": {
     "themes": [
       {
-        "label": "omen",
-        "uiTheme": "vs",
+        "label": "omen :: nightmare",
+        "uiTheme": "vs-dark",
         "path": "./themes/omen-dark-color-theme.json"
+      },
+      {
+        "label": "omen :: lightmare",
+        "uiTheme": "vs",
+        "path": "./themes/omen-light-color-theme.json"
       }
     ]
   }
