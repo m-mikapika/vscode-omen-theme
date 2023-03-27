@@ -315,7 +315,11 @@
 		"titleBar.activeForeground"   : "#FFFFFF",
 		"titleBar.inactiveBackground" : "#1D183D",
 		"titleBar.inactiveForeground" : "#978BD8",
+
 		"walkThrough.embeddedEditorBackground": "#1D183D",
+
+		"welcomePage.tileBackground" : "#12112E",
+
 		"widget.shadow": "#00000026",
 		
 	},
