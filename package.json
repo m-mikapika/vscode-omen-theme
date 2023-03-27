@@ -11,7 +11,9 @@
     "theme",
     "omen",
     "dark theme",
-    "light-theme"
+    "light-theme",
+    "purple",
+    "pastel"
   ],
   "repository": {
     "type": "git",
