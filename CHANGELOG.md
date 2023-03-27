@@ -1,6 +1,10 @@
 # Change Log
 
-All notable changes to the "omen" extension will be documented in this file.
+All changes to the *omen* theme starting from version **1.0.0**!
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+<hr>
 
+```
+v1.0.0
+    ADDED:
+        - omen :: lightmare--first light mode variant
