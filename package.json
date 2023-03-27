@@ -2,7 +2,7 @@
   "name": "omen",
   "displayName": "omen",
   "description": "Originally inspired by Omen, from Valorant",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "publisher": "w3ns",
   "engines": {
     "vscode": "^1.76.0"
