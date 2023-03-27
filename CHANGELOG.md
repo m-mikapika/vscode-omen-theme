@@ -16,7 +16,7 @@ All changes coming and added to the *omen* theme starting from version **1.0.0**
 ## CHANGELOG:
 
 ```
-v1.0.3 - 1.0.4 (LATEST)
+v1.0.3 - 1.0.5 (LATEST)
     PATCHED:
         - improved readability in light mode
 
