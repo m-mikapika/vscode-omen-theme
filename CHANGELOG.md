@@ -16,7 +16,13 @@ All changes coming and added to the *omen* theme starting from version **1.0.0**
 ## CHANGELOG:
 
 ```
-1.0.3 - 1.0.8 (LATEST)
+1.2.0 (LATEST)
+    CHANGED:
+        - overall colours of lightmode text
+    PATCHED:
+        - readability of text in lightmode
+
+1.0.3 - 1.0.8
     PATCHED:
         - improved readability in light mode
 
