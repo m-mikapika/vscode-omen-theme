@@ -26,7 +26,9 @@ All changes coming and added to the *omen* theme starting from version **1.0.0**
     PATCHED:
         - readability of text in lightmode
 
-[There were issues that wouldn't allow versions to be posted, but were saved anyway. Versions cannot be unpublished or overwritten so straight to 1.3.0!]
+// There were issues that wouldn't allow versions to be posted,
+// but were saved anyway.
+// Versions cannot be unpublished or overwritten so straight to 1.3.0!
 
 1.0.2
     PATCHED:
