@@ -16,7 +16,12 @@ All changes coming and added to the *omen* theme starting from version **1.0.0**
 ## CHANGELOG:
 
 ```
-1.3.1 (LATEST)
+1.3.2
+    PATCHED:
+        - fixed paragraph text in markdown being white in lightmode
+    CHANGED:
+        - adjusted colours on dark mode
+1.3.1
     PATCHED:
         - small fixes
 
