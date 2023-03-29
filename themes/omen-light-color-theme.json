@@ -145,11 +145,11 @@
 
 		"editorSuggestWidget.background"                : "#C9A9CC",
 		"editorSuggestWidget.border"                    : "#C9A9CC",
-		"editorSuggestWidget.foreground"                : "#522CBA",
-		"editorSuggestWidget.selectedBackground"        : "#4C3F88",
-		"editorSuggestWidget.highlightForeground"       : "#7D5A80",
-		"editorSuggestWidget.focusHighlightForeground"  : "#7D5A80",
-		"editorSuggestWidget.selectedForeground"        : "#FFFFFF",
+		"editorSuggestWidget.foreground"                : "#000000",
+		"editorSuggestWidget.selectedBackground"        : "#FFF2F5",
+		"editorSuggestWidget.highlightForeground"       : "#FF2441",
+		"editorSuggestWidget.focusHighlightForeground"  : "#FF2441",
+		"editorSuggestWidget.selectedForeground"        : "#000000",
 
 		"editorWarning.border"                          : "#FFFFFF00",
 		"editorWarning.foreground"                      : "#EE2C77",
@@ -172,7 +172,7 @@
 
 		"input.background"                  : "#FFFAFA",
 		"input.border"                      : "#FFFAFA",
-		"input.foreground"                  : "#000000",
+		"input.foreground"                  : "#FF2441",
 		"input.placeholderForeground"       : "#554B80",
 		"inputOption.activeBackground"      : "#EE2C77",
 		"inputOption.activeForeground"      : "#000000",
