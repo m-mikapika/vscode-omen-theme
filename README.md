@@ -6,7 +6,7 @@
 
 </div>
 
-<p align='center' style='font-size : 11px; font-weight : bold; color : #AAAAAA'>
+<p align='center' style='font-size : 11px; font-weight : bold; color : #999999'>
 THIS THEME IS A WORK-IN-PROGRESS; REPORT ANY ISSUES <a href='https://github.com/w3n-s/vscode-omen-theme/issues/new/choose'>HERE</a>
 </p>
 
@@ -26,12 +26,13 @@ This is theme for Visual Studio Code that was originally inspired by Omen, from 
 <h2 align='center' style='font-weight : bold'>PREVIEWS</h3>
 
 <div align='center'>
-<p align='right' style='padding-right : 5%; font-size : 11px; font-weight : bold; color : #AAAAAA'>Omen--Nightmare</p>
-<img src='./assets/nightmare.png' style='border-radius : 8px; width : 95%'>
+<p align='right' style='padding-right : 5%; font-size : 11px; font-weight : bold; color : #999999'>Omen--Nightmare</p>
+<img src='./assets/nightmare.webp' style='border-radius : 8px; width : 95%'>
 <br>
 <br>
-<p align='right' style='padding-right : 5%; font-size : 11px; font-weight : bold; color : #AAAAAA'>Omen--Lightmare</p>
-<img src='./assets/lightmare.png' style='border-radius : 8px; width : 95%'>
+<p align='right' style='padding-right : 5%; font-size : 11px; font-weight : bold; color : #999999'>Omen--Lightmare</p>
+<img src='./assets/lightmare.webp' style='border-radius : 8px; width : 95%'>
 </div>
+<br>
 
 **Enjoy!**
