@@ -1,6 +1,6 @@
 <h1 align='center'>omen</h1>
 <div align='center'>
-<img src='./assets/themes-header.png' style='border-radius : 8px; height : 200px'>
+<img src='./assets/themes-header.webp' style='border-radius : 8px; height : 200px'>
 <br>
 <br>
 
