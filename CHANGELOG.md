@@ -7,8 +7,7 @@ All changes coming and added to the *omen* theme starting from version **1.0.0**
 ## TODO:
 
 ```
-- [ADD] : names for variants
-- [ADD] : screenshots
+all done so far! :3
 ```
 
 <hr>
@@ -16,6 +15,9 @@ All changes coming and added to the *omen* theme starting from version **1.0.0**
 ## CHANGELOG:
 
 ```
+1.4.0
+    CHANGED:
+        - updated README file
 1.3.2
     PATCHED:
         - fixed paragraph text in markdown being white in lightmode
