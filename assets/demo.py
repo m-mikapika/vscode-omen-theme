@@ -2,7 +2,7 @@ import os
 
 """I'll make them remember, they're only human."""
 
-#If I must live in this nightmare, my enemies might as well join me.
+#If I must live in this nightmare, my enemies might as well join me. 
 
 class Foo(object):
     def __init__(self) -> None:
