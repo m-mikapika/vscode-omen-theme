@@ -21,6 +21,8 @@ def foo(self):
 
     return 'Pity the man who dies meaningless.'
 
+CONSTANT = 1
+
 @decorator
 def bar(self):
 
