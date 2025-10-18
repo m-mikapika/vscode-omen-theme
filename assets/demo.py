@@ -4,6 +4,8 @@ import os
 
 #If I must live in this nightmare, my enemies might as well join me. 
 
+CONSTANT = 19
+
 class Foo(object):
     def __init__(self) -> None:
         num = 93
@@ -20,8 +22,6 @@ def decorator(func):
 def foo(self):
 
     return 'Pity the man who dies meaningless.'
-
-CONSTANT = 1
 
 @decorator
 def bar(self):

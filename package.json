@@ -26,12 +26,12 @@
   "contributes": {
     "themes": [
       {
-        "label": "Omen--Nightmare",
+        "label": "Omen—Nightmare", 
         "uiTheme": "vs-dark",
         "path": "./themes/omen-dark-color-theme.json"
       },
       {
-        "label": "Omen--Lightmare",
+        "label": "Omen—Daydream",
         "uiTheme": "vs",
         "path": "./themes/omen-light-color-theme.json"
       }

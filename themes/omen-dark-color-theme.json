@@ -297,13 +297,13 @@
 		"terminal.ansiCyan"          : "#5EFBFD",
 		"terminal.ansiBrightCyan"    : "#b0f4ff",
 
-		"terminal.ansiGreen"         : "#00d17d",
-		"terminal.ansiBrightGreen"   : "#34ff96",
+		"terminal.ansiGreen"         : "#00D19D",
+		"terminal.ansiBrightGreen"   : "#43EBB3",
 
-		"terminal.ansiMagenta"       : "#ff63a7",
-		"terminal.ansiBrightMagenta" : "#ff96c3",
+		"terminal.ansiMagenta"       : "#e75cc4",
+		"terminal.ansiBrightMagenta" : "#ff96f6",
 
-		"terminal.ansiRed"           : "#e2465b",
+		"terminal.ansiRed"           : "#e24682",
 		"terminal.ansiBrightRed"     : "#ff7878",
 
 		"terminal.ansiWhite"         : "#FFFFFF",
@@ -333,6 +333,9 @@
 		"walkThrough.embeddedEditorBackground": "#1D183D",
 
 		"widget.shadow": "#00000026",
+
+		"editorUnnecessaryCode.opacity" : "#FFFFFF99",
+		"editorUnnecessaryCode.border" : "#7867C5"		
 		
 	},
 
@@ -436,7 +439,7 @@
 				"punctuation.definition.string"
 			],
 			"settings": {
-				"foreground": "#43EB86"
+				"foreground": "#43EBB3"
 			}
 		},
 		{
