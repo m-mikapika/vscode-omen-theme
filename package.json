@@ -3,7 +3,7 @@
   "displayName": "omen",
   "description": "Originally inspired by Omen, from Valorant",
   "icon": "./assets/icon.webp",
-  "version": "1.3.3",
+  "version": "1.5.0",
   "publisher": "w3ns",
   "engines": {
     "vscode": "^1.76.0"
