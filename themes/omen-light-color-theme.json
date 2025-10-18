@@ -854,7 +854,7 @@
 		{
 			"scope": "variable.parameter.function.language.special.self.python",
 			"settings": {
-				"foreground": "#3470DF"
+				"foreground": "#00C5CC"
 			}
 		},
 		{
