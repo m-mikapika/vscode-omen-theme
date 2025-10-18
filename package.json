@@ -3,7 +3,7 @@
   "displayName": "omen",
   "description": "Originally inspired by Omen, from Valorant",
   "icon": "./assets/icon.webp",
-  "version": "1.5.1",
+  "version": "1.5.2",
   "publisher": "w3ns",
   "engines": {
     "vscode": "^1.76.0"
@@ -26,7 +26,7 @@
   "contributes": {
     "themes": [
       {
-        "label": "Omen—Nightmare", 
+        "label": "Omen—Nightmare",
         "uiTheme": "vs-dark",
         "path": "./themes/omen-dark-color-theme.json"
       },
