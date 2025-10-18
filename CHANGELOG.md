@@ -15,6 +15,10 @@ all done so far! :3
 ## CHANGELOG:
 
 ```
+1.5.0
+    CHANGED:
+        - light mode has be redone with a new colour palette
+
 1.4.0
     CHANGED:
         - updated README file
