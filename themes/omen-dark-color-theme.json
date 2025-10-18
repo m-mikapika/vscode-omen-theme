@@ -89,7 +89,7 @@
 		"editor.lineHighlightBackground"                : "#241E49",
 		"editor.lineHighlightBorder"                    : "#241E49",
 		"editor.linkedEditingBackground"                : "#7e46dfaa",
-		"editor.rangeHighlightBackground"               : "#12112E",
+		"editor.rangeHighlightBackground"               : "#4C3F8870",
 		"editor.selectionBackground"                    : "#978BD888",
 		"editor.selectionHighlightBackground"           : "#978BD846",
 
@@ -118,8 +118,8 @@
 		
 		"editorHoverWidget.background"                  : "#161633",
 		"editorHoverWidget.border"                      : "#161633",
-		"editorIndentGuide.activeBackground"            : "#978BD842",
-		"editorIndentGuide.background"                  : "#978BD80f",
+		"editorIndentGuide.activeBackground1"            : "#978BD842",
+		"editorIndentGuide.background1"                  : "#978BD80f",
 		"editorLineNumber.foreground"                   : "#5F52A9",
 		"editorLineNumber.activeForeground"             : "#978BD8",
 		"editorLink.activeForeground"                   : "#978BD8",
