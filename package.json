@@ -28,12 +28,12 @@
       {
         "label": "Omen—Nightmare",
         "uiTheme": "vs-dark",
-        "path": "./themes/omen-dark-color-theme.json"
+        "path": "./themes/omen-dark-colour-theme.json"
       },
       {
         "label": "Omen—Daydream",
         "uiTheme": "vs",
-        "path": "./themes/omen-light-color-theme.json"
+        "path": "./themes/omen-light-colour-theme.json"
       }
     ]
   }

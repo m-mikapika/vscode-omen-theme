@@ -202,19 +202,26 @@
 		"keybindingLabel.foreground"        : "#4B5098",
 
 		"list.activeSelectionBackground"    : "#D6E2FF",
-		"list.activeSelectionForeground"    : "#FFFFFF",
+		"list.activeSelectionForeground"    : "#4B5098",
+
 		"list.inactiveSelectionBackground"  : "#D6E2FF",
 		"list.inactiveSelectionForeground"  : "#4B5098",
+
 		"list.dropBackground"               : "#F5FAFF",
+
 		"list.focusBackground"              : "#EBF3FF",
 		"list.focusForeground"              : "#4B5098",
+
 		"list.highlightForeground"          : "#007D99",
+
 		"list.hoverBackground"              : "#EBF3FF",
 		"list.hoverForeground"              : "#4B5098",
+
 		"listFilterWidget.background"       : "#F5FAFF",
 		"listFilterWidget.noMatchesOutline" : "#ED7728",
 		"listFilterWidget.outline"          : "#F5FAFF",
-		"list.warningForeground"            : "#FFFFFF",
+
+		"list.warningForeground"            : "#D93A78",
 		"list.errorForeground"              : "#D93A78",
 
 		"menu.background"          : "#EBF3FF",

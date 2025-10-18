@@ -15,49 +15,48 @@ all done so far! :3
 ## CHANGELOG:
 
 ```
-1.5.3
+1.5.4
     CHANGED:
         - changes to the readme file
+    FIXED:
+        - small colour fixes with selections
+    
 
 1.5.2
-    PATCHED:
+    FIXED:
         - additional light mode fixes
 
 1.5.1
     CHANGED:
         - light mode has be redone with a new colour palette
 
-1.4.0
-    CHANGED:
-        - updated README file
+
+
 1.3.2
-    PATCHED:
+    FIXED:
         - fixed paragraph text in markdown being white in lightmode
     CHANGED:
         - adjusted colours on dark mode
 1.3.1
-    PATCHED:
+    FIXED:
         - small fixes
 
 1.3.0
     CHANGED:
         - overall colours of lightmode text
-    PATCHED:
+    FIXED:
         - readability of text in lightmode
 
-// There were issues that wouldn't allow versions to be posted,
-// but were saved anyway.
-// Versions cannot be unpublished or overwritten so straight to 1.3.0!
 
 1.0.2
-    PATCHED:
+    FIXED:
         - updated lightmode text for better readability
 
 1.0.1
-    PATCHED:
+    FIXED:
         - welcome page tiles being unreadable
 
 1.0.0
     ADDED:
-        - omen :: lightmare--first light mode variant
+        - omen—lightmare - first light mode variant
 ```
