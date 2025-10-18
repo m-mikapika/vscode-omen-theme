@@ -15,6 +15,10 @@ all done so far! :3
 ## CHANGELOG:
 
 ```
+1.5.3
+    CHANGED:
+        - changes to the readme file
+
 1.5.2
     PATCHED:
         - additional light mode fixes

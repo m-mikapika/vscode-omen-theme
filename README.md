@@ -7,13 +7,9 @@
 <br>
 
 </div>
-<p align='center' style='font-size : 11px; font-weight : bold; color : #a89ee5'>
-THIS THEME IS A WORK-IN-PROGRESS; REPORT ANY ISSUES <a href='https://github.com/w3n-s/vscode-omen-theme/issues/new/choose' style='color : #00d4ff'>HERE</a>
-</p>
-
 <div align='center'>
 <p style='width : 90%; text-align : justify; color : white'>
-This is theme for Visual Studio Code that was originally inspired by Omen, from Valorant. Currently this theme features one dark mode (Omen--Nightmare) and one light mode (Omen--Lightmare) theme.
+This is a theme for Visual Studio Code that was originally inspired by Omen, from VALORANT. The dark mode theme (Omen—Nightmare) is the main theme inspired by the character. The light mode theme (Omen—Daydream) was created after to let light mode users have something too.
 </p>
 </div>
 
@@ -41,6 +37,10 @@ This is theme for Visual Studio Code that was originally inspired by Omen, from 
 
 </div>
 <br>
+
+<p align='center' style='font-size : 11px; font-weight : bold; color : #a89ee5'>
+REPORT ANY ISSUES WITH THE THEME <a href='https://github.com/w3n-s/vscode-omen-theme/issues/new/choose' style='color : #00d4ff'>HERE</a>
+</p>
 
 <b style='color : white'>Enjoy the theme!</b>
 <br>
