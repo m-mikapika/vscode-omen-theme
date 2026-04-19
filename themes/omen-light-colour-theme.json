@@ -94,9 +94,9 @@
 		"dropdown.foreground" : "#4B5098",
 
 		"editor.background"                             : "#FFFFFF",
-		"editor.findMatchBackground"                    : "#ED7728",
-		"editor.findMatchHighlightBackground"           : "#ED772855",
-		"editor.findRangeHighlightBackground"           : "#ED772855",
+		"editor.findMatchBackground"                    : "#FFA146",
+		"editor.findMatchHighlightBackground"           : "#CF4F0044",
+		"editor.findRangeHighlightBackground"           : "#CF4F0044",
 		"editor.foreground"                             : "#4B5098",
 		"editor.hoverHighlightBackground"               : "#ff730000",
 		"editor.inactiveSelectionBackground"            : "#D6E2FF88",
@@ -117,7 +117,7 @@
 		"editorBracketMatch.background"                 : "#ad70fc46",
 		"editorBracketMatch.border"                     : "#ad70fc46",
 		"editorCodeLens.foreground"                     : "#4B5098",
-		"editorCursor.foreground"                       : "#00C7D1",
+		"editorCursor.foreground"                       : "#4B5098",
 		"editorError.foreground"                        : "#ec3a37f5",
 		"editorGroup.border"                            : "#C4D3FF",
 		"editorGroup.dropBackground"                    : "#C4D3FFd0",
@@ -367,8 +367,8 @@
 
 		"terminal.background"       : "#EBF3FF",
 		"terminal.foreground"       : "#FFFFFF",
-		"terminalCursor.background" : "#0092B3",
-		"terminalCursor.foreground" : "#0092B3",
+		"terminalCursor.background" : "#4B5098",
+		"terminalCursor.foreground" : "#4B5098",
 
 		"terminal.selectionBackground"         : "#C4D3FF",
 		"terminal.inactiveSelectionBackground" : "#C4D3FF",
@@ -435,9 +435,18 @@
 			"scope": "constant",
 			"settings": {
 				"fontStyle": "bold",
-				"foreground": "#D93A78"
+				"foreground": "#ED7728"
 			}
 		},
+		{
+			"scope": [
+				"constant.numeric",
+				"constant.language.python"
+			],
+			"settings": {
+				"foreground": "#D93A78"
+			}
+		},	
 		{
 			"scope": [
 				"keyword, storage.type.class.js"
@@ -514,7 +523,7 @@
 		{
 			"scope": "support",
 			"settings": {
-				"foreground": "#3088DF"
+				"foreground": "#FFA146"
 			}
 		},
 		{

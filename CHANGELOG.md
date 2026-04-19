@@ -15,6 +15,10 @@ all done so far! :3
 ## CHANGELOG:
 
 ```
+1.5.5
+    CHANGED:
+        - Adjusted colours for readability and slight preference in Nightmare
+
 1.5.4
     CHANGED:
         - changes to the readme file
