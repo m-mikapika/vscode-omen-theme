@@ -56,13 +56,17 @@
 		"breadcrumb.focusForeground"           : "#002E5C",
 		"breadcrumb.foreground"                : "#777DC4",
 		"breadcrumbPicker.background"          : "#D6E2FF",
+
 		"button.background"               : "#C4D3FF",
-		"button.border"                   : "#C4D3FF",
 		"button.foreground"               : "#002E5C",
 		"button.hoverBackground"          : "#D6E2FF",
+
 		"button.secondaryBackground"      : "#F5FAFF",
-		"button.secondaryForeground"      : "#777DC4",
+		"button.secondaryForeground"      : "#002E5C",
 		"button.secondaryHoverBackground" : "#D6E2FF",
+
+		"button.border"					  : "#C4D3FF",
+
 		"checkbox.background"             : "#C4D3FF",
 		"checkbox.border"				  : "#C4D3FF",
 		"checkbox.foreground"             : "#4B5098",

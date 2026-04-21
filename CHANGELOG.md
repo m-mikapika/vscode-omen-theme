@@ -15,6 +15,10 @@ all done so far! :3
 ## CHANGELOG:
 
 ```
+1.6.2
+    CHANGED:
+        - Changed button colours and Find match colour
+        
 1.5.5
     CHANGED:
         - Adjusted colours for readability and slight preference in Nightmare
