@@ -32,7 +32,7 @@ There are two themes: Nightmare and Daydream for both dark mode and light mode r
 <br>
 
 <p align='center' style='font-size : 11px; font-weight : bold; color : #a89ee5'>
-REPORT ANY ISSUES WITH THE THEME <a href='https://github.com/w3n-s/vscode-omen-theme/issues/new/choose' style='color : #00d4ff'>HERE</a>
+REPORT ANY ISSUES WITH THE THEME <a href='https://github.com/m-mikapika/vscode-omen-theme/issues/new/choose' style='color : #00d4ff'>HERE</a>
 </p>
 
 <b style='color : white'>Thank you!</b>

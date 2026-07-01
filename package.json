@@ -4,7 +4,7 @@
   "description": "Originally inspired by Omen, from Valorant",
   "icon": "./assets/icon.webp",
   "version": "1.6.3",
-  "publisher": "w3ns",
+  "publisher": "mikapika",
   "engines": {
     "vscode": "^1.76.0"
   },
@@ -18,7 +18,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/w3n-s/vscode-omen-theme"
+    "url": "https://github.com/m-mikapika/vscode-omen-theme"
   },
   "categories": [
     "Themes"
