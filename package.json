@@ -4,7 +4,7 @@
   "description": "Originally inspired by Omen, from Valorant",
   "icon": "./assets/icon.webp",
   "version": "1.6.3",
-  "publisher": "mikapika",
+  "publisher": "w3ns",
   "engines": {
     "vscode": "^1.76.0"
   },
