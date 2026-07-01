@@ -15,6 +15,9 @@ all done so far! :3
 ## CHANGELOG:
 
 ```
+1.6.3:
+    CHANGED:
+        - Small corrections on operator symbols
 1.6.2
     CHANGED:
         - Changed button colours and Find match colour

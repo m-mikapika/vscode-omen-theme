@@ -744,6 +744,16 @@
 			}
 		},
 		{
+			"scope" : [
+				"keyword.operator.bitwise.python",
+				"keyword.operator.arithmetic.python"
+			],
+			"settings": {
+				"foreground": "#FFAAE1",
+				"fontStyle": "bold"
+			}
+		},		
+		{
 			"scope": [
 				"storage.type",
 				"storage.type.class",
@@ -774,7 +784,8 @@
 		{
 			"scope": "keyword.operator.assignment",
 			"settings": {
-				"foreground": "#FFAAE1"
+				"foreground": "#FFAAE1",
+				"fontStyle" : "bold"
 			}
 		},
 		{

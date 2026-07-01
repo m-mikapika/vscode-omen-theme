@@ -795,6 +795,16 @@
 			}
 		},
 		{
+			"scope" : [
+				"keyword.operator.bitwise.python",
+				"keyword.operator.arithmetic.python"
+			],
+			"settings": {
+				"foreground": "#878DD4",
+				"fontStyle": "bold"
+			}
+		},				
+		{
 			"scope": [
 				"storage.type",
 				"storage.type.class",
@@ -825,7 +835,8 @@
 		{
 			"scope": "keyword.operator.assignment",
 			"settings": {
-				"foreground": "#878DD4"
+				"foreground": "#878DD4",
+				"fontStyle": "bold"
 			}
 		},
 		{
@@ -908,7 +919,7 @@
 			"scope" : "punctuation.definition.decorator.python",
 			"settings": {
 				"foreground": "#FC5CA6",
-				"fontStyle": "bold"
+				"fontStyle": ""
 			}
 		},
 		{

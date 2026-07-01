@@ -8,18 +8,12 @@
 </div>
 <div align='center'>
 <p style='width : 90%; text-align : justify; color : white'>
-This is a theme for Visual Studio Code that was originally inspired by Omen, from VALORANT. The dark mode theme (Omen—Nightmare) is the main theme inspired by the character. The light mode theme (Omen—Daydream) was created after to let light mode users have something too.
+This is a theme for Visual Studio Code that was originally inspired by Omen, from VALORANT. The theme evolved from there into something separate of my own, keeping some reference to the character but being my own theme and colour preferences.
+<br>
+<br>
+There are two themes: Nightmare and Daydream for both dark mode and light mode respectively. The themes were made around Python specifically, so if you think something doesn't look quite right please report it using the link below :3
+
 </p>
-</div>
-
-<div align='center'>
-<br>
-
-<img src='./assets/revelation.gif' style='border-radius : 8px; width : 95%'>
-
-<br>
-<br>
-
 </div>
 
 <h2 align='center' style='font-weight : bold; color : white'>PREVIEWS</h3>
