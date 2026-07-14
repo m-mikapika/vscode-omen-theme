@@ -2,26 +2,24 @@
 
 All changes coming and added to the *omen* theme starting from version **1.0.0**!
 
-<hr>
-
-## TODO:
-
-```
-all done so far! :3
-```
-
-<hr>
+<br>
+<br>
 
 ## CHANGELOG:
 
 ```
+1.6.4:
+    CHANGED:
+        - Updated theme appearance in the C programming language.
 1.6.3:
     CHANGED:
         - Small corrections on operator symbols
 1.6.2
     CHANGED:
         - Changed button colours and Find match colour
-        
+
+
+
 1.5.5
     CHANGED:
         - Adjusted colours for readability and slight preference in Nightmare
@@ -31,7 +29,6 @@ all done so far! :3
         - changes to the readme file
     FIXED:
         - small colour fixes with selections
-    
 
 1.5.2
     FIXED:
@@ -48,6 +45,7 @@ all done so far! :3
         - fixed paragraph text in markdown being white in lightmode
     CHANGED:
         - adjusted colours on dark mode
+
 1.3.1
     FIXED:
         - small fixes
@@ -57,6 +55,7 @@ all done so far! :3
         - overall colours of lightmode text
     FIXED:
         - readability of text in lightmode
+
 
 
 1.0.2
