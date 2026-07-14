@@ -368,6 +368,47 @@
 		//COMMENT:
 			//7867C5
 
+		// {
+		// 	"scope": [
+		// 		"string.quoted.single.c"
+		// 	],
+		// 	"settings": {
+		// 		"foreground": "#00FF00",
+		// 		"fontStyle": "bold"
+		// 	}
+		// },
+		{
+			"scope": [
+				"meta.preprocessor.include.c",
+				"string.quoted.other.lt-gt.include.c",
+				"variable.other.object.access.c",
+			],
+			"settings": {
+				"foreground": "#FFFFFF"
+			}
+		},
+		{
+			"scope": [
+				"keyword.operator.c",
+				"keyword.operator.increment.c",
+				"keyword.operator.comparison.c",
+				"keyword.operator.decrement.c",
+				"keyword.operator.logical.c"
+			],
+			"settings": {
+				"foreground": "#FFAAE1",
+				"fontStyle": "bold"
+			}
+		},
+		{
+			"scope": [
+				"variable.parameter.c",
+				"variable.other.property.c"
+			],
+			"settings": {
+				"foreground": "#5EFBFD"
+			}
+		},		
 		{
 			"scope": [
 				"comment",
@@ -378,11 +419,31 @@
 			}
 		},	
 		{
-			"scope": "entity",
+			"scope": [
+				"entity"
+			],
 			"settings": {
 				"foreground": "#B8D3FF"
 			}
 		},
+		{
+			"scope": [
+				"entity.name.type.c"
+			],
+			"settings": {
+				"foreground": "#5EFBFD"
+			}
+		},
+		{
+			"scope": [
+				"punctuation.definition.directive.c",
+				"keyword.control.directive.include.c"
+			],
+			"settings": {
+				"foreground": "#B8D3FF",
+				"fontStyle": ""
+			}
+		},		
 		{
 			"scope": "constant",
 			"settings": {
@@ -421,17 +482,14 @@
 		{
 			"scope": [
 				"meta.brace",
+				"punctuation",
+				"storage.modifier.array.bracket.square.c",
 				"punctuation.definition.parameters.begin.js",
 				"punctuation.definition.parameters.end.js"
 			],
 			"settings": {
-				"foreground": "#FFAAE1"
-			}
-		},
-		{
-			"scope": "punctuation",
-			"settings": {
-				"foreground": "#FFAAE1"
+				"foreground": "#FFAAE1",
+				"fontStyle": ""
 			}
 		},
 		{
@@ -492,7 +550,11 @@
 			}
 		},
 		{
-			"scope": "variable",
+			"scope": [
+				"meta.indexed-name.python",
+				"variable.object.c",
+				"variable"
+			],
 			"settings": {
 				"foreground": "#FFFFFF"
 			}
@@ -825,7 +887,6 @@
 		},
 		{
 			"scope": [
-				"variable.other.property",
 				"variable.other.object.property"
 			],
 			"settings": {
@@ -1173,7 +1234,6 @@
 				"entity.name.function.php",
 				"support.function.basic_functions.php",
 				"meta.function-call.php",
-				"variable.other.property"
 			],
 			"settings": {
 				"foreground": "#FFAAE1"

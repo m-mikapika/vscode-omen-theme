@@ -27,3 +27,7 @@ def foo(self):
 def bar(self):
 
     return 'History has already forgotten you.' 
+
+lister = []
+
+lister[0]

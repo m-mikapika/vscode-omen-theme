@@ -422,6 +422,83 @@
 
 		{
 			"scope": [
+				"meta.preprocessor.include.c",
+				"string.quoted.other.lt-gt.include.c",
+				"variable.other.object.access.c",
+			],
+			"settings": {
+				"foreground": "#4B5098"
+			}
+		},
+		{
+			"scope": [
+				"storage.modifier.array.bracket.square.c",
+				"variable.other.object.access.c"
+			],
+			"settings": {
+				"foreground": "#FC5CA6",
+				"fontStyle": ""
+			}
+		},
+		{
+			"scope": [
+				"keyword.operator.c",
+				"keyword.operator.increment.c",
+				"keyword.operator.comparison.c",
+				"keyword.operator.decrement.c",
+				"keyword.operator.logical.c"
+			],
+			"settings": {
+				"foreground": "#FC5CA6",
+				"fontStyle": "bold"
+			}
+		},
+		{
+			"scope": [
+				"variable.parameter.c",
+				"variable.other.property.c"
+			],
+			"settings": {
+				"foreground": "#3088DF"
+			}
+		},		
+		{
+			"scope": [
+				"comment",
+				"punctuation.definition.comment"
+			],
+			"settings": {
+				"foreground": "#878DD4"
+			}
+		},	
+		{
+			"scope": [
+				"entity"
+			],
+			"settings": {
+				"foreground": "#3088DF"
+			}
+		},
+		{
+			"scope": [
+				"entity.name.type.c"
+			],
+			"settings": {
+				"foreground": "#3088DF"
+			}
+		},
+		{
+			"scope": [
+				"punctuation.definition.directive.c",
+				"keyword.control.directive.include.c"
+			],
+			"settings": {
+				"foreground": "#3088DF",
+				"fontStyle": ""
+			}
+		},				
+		{
+			"scope": [
 				"comment",
 				"punctuation.definition.comment"
 			],
